@@ -16,7 +16,7 @@ The dashboard provides an intuitive visualization of:
 ## 📸 Dashboard Preview
 
 ![Dashboard Screenshot](./path/to/your/image.png)  
-*(Replace the above path with the actual image path in your repo)*
+
 
 ## 🔍 Key Highlights
 
