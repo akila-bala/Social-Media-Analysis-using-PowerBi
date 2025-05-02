@@ -11,12 +11,8 @@ The dashboard provides an intuitive visualization of:
 - 👥 **Demographic Insights** by age, city, and gender  
 - 📌 **Geographical Usage Patterns** across Indian cities  
 - 🕵️‍♀️ **Age-based Trends** in social media consumption  
-- 📊 **Platform Comparisons** in terms of usage and popularity  
-
-## 📸 Dashboard Preview
-
-![Dashboard Screenshot](./path/to/your/image.png)  
-
+- 📊 **Platform Comparisons** in terms of usage and popularity
+- 
 
 ## 🔍 Key Highlights
 
